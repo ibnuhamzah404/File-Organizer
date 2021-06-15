@@ -1,0 +1,62 @@
+Name File, Input Path, Output Path, Extension
+blog-heading.html#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\html\2021\2021-03-11#HTML#
+index.html#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\html\2015\2015-08-14#HTML#
+tes.html#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\html\2021\2021-03-01#HTML#
+barang.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-04-03#SQL#
+detail_barang.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-04-03#SQL#
+elerning (1).sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-04-01#SQL#
+elerning.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-03-31#SQL#
+kategori_barang.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-04-03#SQL#
+masterdata.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-03-17#SQL#
+mobil.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-02-10#SQL#
+pdfreader.php#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\php\2021\2021-04-07#PHP#
+User.php#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\php\2021\2021-03-31#PHP#
+background5.jpg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Images\jpg\2021\2021-04-01#JPG#
+hut-ri-6382-pendaki-sulsel-kibarkan-merah-putih-di-2-gunung.jpg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Images\jpg\2021\2021-03-31#JPG#
+Kuiss2.avi#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Vidio\avi\2020\2020-06-02#AVI#
+Shortest Video on Youtube-tPEE9ZwTmy0.mp4#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Vidio\mp4\2018\2018-02-13#MP4#
+adult.xlsx#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Dokumen\xlsx\2021\2021-04-08#XLSX#
+hari pertama daring.ogg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\ogg\2021\2021-01-22#OGG#
+hari pertama.ogg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\ogg\2021\2021-01-22#OGG#
+kesiangan.ogg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\ogg\2021\2021-01-22#OGG#
+suara jam weeker.ogg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\ogg\2021\2021-01-21#OGG#
+WhatsApp Ptt 2021-01-21 at 9.36.36 PM.ogg#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\ogg\2021\2021-01-21#OGG#
+Audio.mp3#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\mp3\2021\2021-04-09#MP3#
+hari pertama daring.wav#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\wav\2021\2021-01-22#WAV#
+hari pertama.wav#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\wav\2021\2021-01-22#WAV#
+Ibnuhamzah(1803015213)_Latar belakang.pdf#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-04-10#PDF#
+kesiangan.wav#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\wav\2021\2021-01-22#WAV#
+KINESTHETIC.pdf#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-04-05#PDF#
+Latar belakang.docx#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Dokumen\docx\2021\2021-04-10#DOCX#
+MEDIA READING WRITING.pdf#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-04-03#PDF#
+scanpdf.zip#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Arsip\zip\2021\2021-04-12#ZIP#
+spongebob alaram (online-audio-converter.com).wav#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Audio\wav\2021\2021-01-21#WAV#
+Video AKAR AKAR NASIONALISME DI INDONESIA.mp4#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Vidio\mp4\2021\2021-04-03#MP4#
+YULIA RIZKI AMALIA (13540268).pdf#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-04-10#PDF#
+u6070114_scanpdf.sql#C:\Users\viyan_ochon\Desktop#D:\Deskop\Data Ibnu\File Organizer\Programs\sql\2021\2021-04-12#SQL#
+2021-02-10 11-30-15.mp4#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Vidio\mp4\2021\2021-02-10#MP4#
+2021-02-10 12-12-26.mp4#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Vidio\mp4\2021\2021-02-10#MP4#
+3. LAB-RESULT_2565056_20071028.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2020\2020-12-25#PDF#
+4 PERT dan CPM edit.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2020\2020-11-16#PDF#
+Ibnuhamzah_1803015213 (1).zip#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Arsip\zip\2020\2020-11-27#ZIP#
+Ibnuhamzah_1803015213.pptx#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pptx\2020\2020-11-13#PPTX#
+Ibnuhamzah_1803015213.zip#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Arsip\zip\2020\2020-11-06#ZIP#
+Ibnu_213.rar#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Arsip\rar\2020\2020-10-15#RAR#
+image (1).jpg#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Images\jpg\2021\2021-03-02#JPG#
+image.jpg#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Images\jpg\2021\2021-03-02#JPG#
+Kartu Keluarga.jpg#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Images\jpg\2021\2021-01-28#JPG#
+KuisPemrogramanWeb_Ibnuhamzah_1803015213.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2020\2020-11-05#PDF#
+Kuis_ibnuhamzah_1803015213.zip#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Arsip\zip\2020\2020-11-12#ZIP#
+pdfreader.zip#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Arsip\zip\2021\2021-03-19#ZIP#
+Penjelasan Backend.mp4#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Vidio\mp4\2021\2021-02-10#MP4#
+Penjelasan Frontend.mp4#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Vidio\mp4\2021\2021-02-10#MP4#
+pertemuan2_ibnu_213 (1).pptx#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pptx\2020\2020-10-23#PPTX#
+PrakWeb_ibnuhamzah(1803015213).zip#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Arsip\zip\2020\2020-11-23#ZIP#
+semester 1.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-02-06#PDF#
+Semester 2.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-02-06#PDF#
+Semester 3.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-02-06#PDF#
+semster 4.pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2021\2021-02-06#PDF#
+sertifikat odi.jpg#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Images\jpg\2021\2021-02-06#JPG#
+SSGAMBAR02_TUPRAKMM_IBNUHAMZAH(1803015213).png#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Images\png\2020\2020-11-07#PNG#
+SSGAMBAR_TUPRAKMM_IBNUHAMZAH(1803015213).png#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Images\png\2020\2020-10-31#PNG#
+TUGAS2MM_IBNUHAMZAH(1803015213).pdf#D:\aplikasi#D:\Deskop\Data Ibnu\File Organizer\Dokumen\pdf\2020\2020-11-14#PDF#

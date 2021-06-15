@@ -1,0 +1,14 @@
+Name File, Path, Extension, Tanggal
+null#null#null#null#
+null#null#null#null#
+null#null#null#null#
+null#null#null#null#
+null#null#null#null#
+null#null#null#null#
+null#null#null#null#
+null#null#null#null#
+Dokumen#C:\Users\viyan_ochon\Desktop\Dokumen#DOKUMEN#2020-08-20#
+tes#C:\Users\viyan_ochon\Desktop\tes#TES#2020-08-20#
+tes#C:\Users\viyan_ochon\Desktop\tes#TES#2020-08-20#
+percobaan#C:\Users\viyan_ochon\Desktop\percobaan#PERCOBAAN#2020-11-16#
+tes#C:\Users\viyan_ochon\Desktop\tes#TES#2020-11-22#
